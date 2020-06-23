@@ -12,5 +12,8 @@ tehen hier noch zu wenig worter oder wo soll der fehler liegen?
 Ich kann es nicht sagen.
 Aber jetzt muesste es auch reichen ...
 
+## Eigenschaften
 
-
+* lecker
+* saftig
+* geht immer 
