@@ -20,3 +20,9 @@ Aber jetzt muesste es auch reichen ...
 
 > Wer mich nicht mag,
 > der hat einen an der Waffel!
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Waffles_with_Strawberries.jpg"/>
+
+
+
+
