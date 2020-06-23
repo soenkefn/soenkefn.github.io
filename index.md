@@ -17,3 +17,6 @@ Aber jetzt muesste es auch reichen ...
 * lecker
 * saftig
 * geht immer 
+
+> Wer mich nicht mag,
+> der hat einen an der Waffel!
